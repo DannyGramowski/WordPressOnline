@@ -1,0 +1,5 @@
+have a user create text documents from browser
+upload and save documents to server
+see documents on server
+update documents on server
+google auth:(

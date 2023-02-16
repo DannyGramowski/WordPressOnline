@@ -3,10 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { FileExplorerComponent } from './file-explorer/file-explorer.component';
+import { FileEditorComponent } from './file-editor/file-editor.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    FileExplorerComponent,
+    FileEditorComponent
   ],
   imports: [
     BrowserModule,
